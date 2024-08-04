@@ -1,6 +1,6 @@
 # Fine-Tuning Llama 3.1 8B with Unsloth
 
-![Llama 3.1](https://example.com/path/to/your/graphic.png) 
+![Llama 3.1](./src/meta.svg) 
 
 ## Overview
 
